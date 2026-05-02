@@ -24,7 +24,7 @@
 
 <br/>
 
-> 🚀 **Este es un proyecto SaaS en producción.** No está pensado para ser clonado y usado de forma independiente — es una plataforma de servicio que vive en [platepro.app](https://platepro.app). Este repositorio documenta su arquitectura, stack y evolución.
+> 🚀 **Este es un proyecto SaaS en producción.** No está pensado para ser clonado y usado de forma independiente — es una plataforma de servicio que vive en [platepro.app](https://platepro-co.vercel.app/). Este repositorio documenta su arquitectura, stack y evolución.
 
 <br/>
 
@@ -220,7 +220,7 @@ Construido con ❤️ desde Colombia 🇨🇴 para toda Latinoamérica.
 
 **¿Tienes un restaurante y quieres tu página?**
 
-[![Visitar PlatePro](https://img.shields.io/badge/🍽️%20Ir%20a%20platepro.app-E85D24?style=for-the-badge)](https://platepro.app)
+[![Visitar PlatePro](https://platepro-co.vercel.app/)
 
 <br/>
 
